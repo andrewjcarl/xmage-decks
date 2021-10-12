@@ -1,0 +1,19 @@
+4 [GRN:141] Pelt Collector
+4 [CON:87] Noble Hierarch
+4 [M21:216] Conclave Mentor
+4 [WAR:200] Huatli's Raptor
+4 [ELD:235] Stonecoil Serpent
+3 [GRN:183] Knight of Autumn
+2 [ELD:171] Questing Beast
+3 [GRN:123] Beast Whisperer
+3 [RTR:194] Selesnya Charm
+2 [CON:15] Path to Exile
+2 [M21:10] Basri's Solidarity
+6 [STX:374] Forest
+6 [STX:366] Plains
+4 [GRN:258] Temple Garden
+4 [XLN:257] Sunpetal Grove
+3 [FUT:177] Horizon Canopy
+2 [SHM:245] Wilt-Leaf Liege
+LAYOUT MAIN:(1,5)(CMC,false,50)|([ELD:235],[ELD:235],[ELD:235],[ELD:235],[STX:374],[STX:374],[STX:374],[STX:374],[STX:374],[STX:374],[STX:366],[STX:366],[STX:366],[STX:366],[STX:366],[STX:366],[GRN:258],[GRN:258],[GRN:258],[GRN:258],[XLN:257],[XLN:257],[XLN:257],[XLN:257],[FUT:177],[FUT:177],[FUT:177])([GRN:141],[GRN:141],[GRN:141],[GRN:141],[CON:87],[CON:87],[CON:87],[CON:87],[CON:15],[CON:15])([M21:216],[M21:216],[M21:216],[M21:216],[WAR:200],[WAR:200],[WAR:200],[WAR:200],[RTR:194],[RTR:194],[RTR:194],[M21:10],[M21:10])([GRN:183],[GRN:183],[GRN:183])([ELD:171],[ELD:171],[GRN:123],[GRN:123],[GRN:123],[SHM:245],[SHM:245])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

@@ -1,0 +1,38 @@
+4 [DIS:99] Utopia Sprawl
+4 [GRN:141] Pelt Collector
+3 [RTR:214] Dryad Militant
+4 [ELD:235] Stonecoil Serpent
+2 [IKO:237] The Ozolith
+4 [M21:216] Conclave Mentor
+2 [M21:193] Llanowar Visionary
+1 [KHM:197] Toski, Bearer of Secrets
+2 [GRN:208] Trostani Discordant
+3 [THB:298] Archon of Sun's Grace
+2 [STX:158] Shaile, Dean of Radiance
+2 [M15:21] Oppressive Rays
+2 [THB:30] Omen of the Sun
+2 [GRN:10] Divine Visitation
+2 [AVR:9] Call to Serve
+1 [THS:153] Bow of Nylea
+3 [GRN:258] Temple Garden
+2 [XLN:257] Sunpetal Grove
+1 [ELD:240] Castle Garenbrig
+3 [STX:366] Plains
+5 [STX:374] Forest
+1 [MH2:261] Yavimaya, Cradle of Growth
+3 [SOM:228] Razorverge Thicket
+2 [KTK:248] Windswept Heath
+SB: 1 [TD0:A8] Ghostly Prison
+SB: 2 [M19:23] Leonin Warleader
+SB: 1 [ZNR:27] Maul of the Skyclaves
+SB: 1 [KHM:21] Reidane, God of the Worthy
+SB: 1 [KHM:32] Starnheim Courser
+SB: 1 [M21:193] Llanowar Visionary
+SB: 1 [MH2:157] Endurance
+SB: 1 [THB:198] Setessan Champion
+SB: 2 [WAR:34] Tomik, Distinguished Advokist
+SB: 2 [M15:37] Spirit Bonds
+SB: 2 [CON:15] Path to Exile
+SB: 1 [THB:345] Shadowspear
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ELD:240],[STX:374],[STX:374],[STX:374],[STX:374],[STX:374],[STX:366],[STX:366],[STX:366],[SOM:228],[SOM:228],[SOM:228],[ELD:235],[ELD:235],[ELD:235],[ELD:235],[XLN:257],[XLN:257],[GRN:258],[GRN:258],[GRN:258],[KTK:248],[KTK:248],[MH2:261])([RTR:214],[RTR:214],[RTR:214],[M15:21],[M15:21],[GRN:141],[GRN:141],[GRN:141],[GRN:141],[IKO:237],[IKO:237],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([AVR:9],[AVR:9],[M21:216],[M21:216],[M21:216],[M21:216],[STX:158],[STX:158])([THS:153],[M21:193],[M21:193],[THB:30],[THB:30])([THB:298],[THB:298],[THB:298],[KHM:197])([GRN:10],[GRN:10],[GRN:208],[GRN:208])
+LAYOUT SIDEBOARD:(2,3)(NONE,false,50)|([TD0:A8],[WAR:34],[WAR:34],[M15:37],[M15:37])([ZNR:27],[KHM:21],[KHM:32],[M21:193],[MH2:157],[THB:198],[CON:15],[CON:15])([THB:345])([M19:23],[M19:23])()()

@@ -1,0 +1,29 @@
+4 [GRN:141] Pelt Collector
+4 [ELD:235] Stonecoil Serpent
+2 [THB:198] Setessan Champion
+4 [M21:216] Conclave Mentor
+2 [M19:23] Leonin Warleader
+1 [KHM:197] Toski, Bearer of Secrets
+2 [GRN:208] Trostani Discordant
+2 [THB:298] Archon of Sun's Grace
+2 [STX:158] Shaile, Dean of Radiance
+3 [THB:4] Banishing Light
+2 [THB:30] Omen of the Sun
+3 [GRN:10] Divine Visitation
+3 [AVR:9] Call to Serve
+4 [GRN:258] Temple Garden
+4 [XLN:257] Sunpetal Grove
+1 [ELD:240] Castle Garenbrig
+7 [STX:366] Plains
+7 [STX:374] Forest
+3 [PRTR:214] Dryad Militant
+SB: 3 [AFC:187] Knight of Autumn
+SB: 2 [DOM:204] Shanna, Sisay's Legacy
+SB: 2 [DOM:31] Seal Away
+SB: 2 [GRN:161] Conclave Cavalier
+SB: 1 [THB:198] Setessan Champion
+SB: 1 [PRTR:214] Dryad Militant
+SB: 1 [KHM:197] Toski, Bearer of Secrets
+SB: 1 [STX:158] Shaile, Dean of Radiance
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ELD:235],[ELD:235],[ELD:235],[ELD:235],[GRN:258],[GRN:258],[GRN:258],[GRN:258],[XLN:257],[XLN:257],[XLN:257],[XLN:257],[ELD:240],[STX:366],[STX:366],[STX:366],[STX:366],[STX:366],[STX:366],[STX:366],[STX:374],[STX:374],[STX:374],[STX:374],[STX:374],[STX:374],[STX:374])([GRN:141],[GRN:141],[GRN:141],[GRN:141],[PRTR:214],[PRTR:214],[PRTR:214])([M21:216],[M21:216],[M21:216],[M21:216],[STX:158],[STX:158],[AVR:9],[AVR:9],[AVR:9])([THB:198],[THB:198],[THB:4],[THB:4],[THB:4],[THB:30],[THB:30])([M19:23],[M19:23],[KHM:197],[THB:298],[THB:298])([GRN:208],[GRN:208],[GRN:10],[GRN:10],[GRN:10])
+LAYOUT SIDEBOARD:(2,3)(NONE,false,50)|([AFC:187],[AFC:187],[AFC:187],[THB:198])([DOM:204],[DOM:204],[DOM:31],[DOM:31])([GRN:161],[GRN:161])([PRTR:214])([KHM:197])([STX:158])

@@ -1,0 +1,30 @@
+1 [AFR:164] Unexpected Windfall
+1 [KHM:151] Smashing Success
+1 [AFR:261] Treasure Vault
+3 [KHM:142] Magda, Brazen Outlaw
+3 [KHM:158] Vault Robber
+3 [MH2:138] Ragavan, Nimble Pilferer
+2 [STX:115] Storm-Kiln Artist
+1 [KHM:15] Halvar, God of Battle
+3 [KHM:139] Goldspan Dragon
+1 [THB:236] Shadowspear
+1 [DST:149] Sword of Light and Shadow
+1 [DST:148] Sword of Fire and Ice
+1 [MBS:138] Sword of Feast and Famine
+1 [AKH:237] Throne of the God-Pharaoh
+4 [M11:149] Lightning Bolt
+2 [ZNR:161] Shatterskull Smashing
+3 [CON:15] Path to Exile
+3 [KHM:211] Forging the Tyrite Sword
+3 [DOM:239] Clifftop Retreat
+1 [KLD:246] Inspiring Vantage
+6 [AFR:274] Mountain
+4 [ZNR:263] Needleverge Pathway
+5 [AFR:262] Plains
+3 [GRN:254] Sacred Foundry
+3 [KLD:32] Toolcraft Exemplar
+SB: 1 [NPH:161] Sword of War and Peace
+SB: 1 [ELD:120] Embercleave
+SB: 1 [MRD:199] Lightning Greaves
+LAYOUT MAIN:(1,6)(CMC,false,50)|([AFR:261],[DOM:239],[KLD:246],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[ZNR:263],[ZNR:263],[ZNR:263],[ZNR:263],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[GRN:254],[GRN:254],[GRN:254],[DOM:239],[DOM:239])([MH2:138],[MH2:138],[MH2:138],[THB:236],[M11:149],[M11:149],[M11:149],[M11:149],[CON:15],[CON:15],[CON:15],[KLD:32],[KLD:32],[KLD:32])([KHM:142],[KHM:142],[KHM:142],[KHM:158],[KHM:158],[AKH:237],[ZNR:161],[ZNR:161],[KHM:158])([DST:149],[DST:148],[MBS:138],[KHM:211],[KHM:211],[KHM:211])([AFR:164],[KHM:151],[STX:115],[STX:115],[KHM:15])([KHM:139],[KHM:139],[KHM:139])
+LAYOUT SIDEBOARD:(2,1)(NONE,false,50)|([NPH:161],[ELD:120])([MRD:199])

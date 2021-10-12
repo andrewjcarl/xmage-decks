@@ -1,0 +1,25 @@
+NAME:Izzet Prowess v2
+4 [M21:354] Stormwing Entity
+4 [KTK:118] Monastery Swiftspear
+2 [MH2:121] Dragon's Rage Channeler
+2 [MH1:145] Seasoned Pyromancer
+4 [IKO:211] Sprite Dragon
+4 [CSP:138] Mishra's Bauble
+4 [SHM:211] Manamorphose
+4 [STX:186] Expressive Iteration
+2 [THB:68] Stern Dismissal
+3 [M11:149] Lightning Bolt
+3 [NPH:116] Mutagenic Growth
+4 [KLD:249] Spirebluff Canal
+2 [GRN:257] Steam Vents
+3 [ZEN:223] Scalding Tarn
+4 [MH1:238] Fiery Islet
+2 [KTK:230] Bloodstained Mire
+4 [STX:372] Mountain
+1 [PF19:1] Lightning Bolt
+4 [MH1:134] Lava Dart
+SB: 4 [OGW:159] Stormchaser Mage
+SB: 3 [M19:216] Enigma Drake
+SB: 4 [ELD:115] Bonecrusher Giant
+LAYOUT MAIN:(1,5)(CMC,false,50)|([KTK:230],[KTK:230],[MH1:238],[MH1:238],[MH1:238],[MH1:238],[CSP:138],[CSP:138],[CSP:138],[CSP:138],[STX:372],[STX:372],[STX:372],[STX:372],[ZEN:223],[ZEN:223],[ZEN:223],[KLD:249],[KLD:249],[KLD:249],[KLD:249],[GRN:257],[GRN:257])([MH2:121],[MH2:121],[M11:149],[M11:149],[PF19:1],[M11:149],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[NPH:116],[NPH:116],[NPH:116],[THB:68],[THB:68],[MH1:134],[MH1:134],[MH1:134],[MH1:134])([STX:186],[STX:186],[STX:186],[STX:186],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[IKO:211],[IKO:211],[IKO:211],[IKO:211])([MH1:145],[MH1:145])([M21:354],[M21:354],[M21:354],[M21:354])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([OGW:159],[OGW:159],[OGW:159],[OGW:159],[M19:216],[M19:216],[M19:216],[ELD:115],[ELD:115],[ELD:115],[ELD:115])
