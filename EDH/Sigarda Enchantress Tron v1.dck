@@ -1,0 +1,82 @@
+1 [ELD:2] All That Glitters
+1 [MMQ:229] Ancestral Mask
+1 [THB:298] Archon of Sun's Grace
+1 [INV:229] Armadillo Cloak
+1 [ISD:170] Avacyn's Pilgrim
+1 [THB:4] Banishing Light
+1 [DTK:7] Battle Mastery
+1 [NPH:103] Beast Within
+1 [DOM:211] Blackblade Reforged
+1 [BFZ:233] Blighted Woodland
+1 [M21:244] Blossoming Sands
+1 [ROE:179] Boar Umbra
+1 [IKO:148] Colossification
+1 [ELD:333] Command Tower
+1 [VOC:163] Commander's Sphere
+1 [M21:177] Cultivate
+1 [DOM:12] Danitha Capashen, Paragon
+1 [ISD:10] Divine Reckoning
+1 [JOU:122] Eidolon of Blossoms
+1 [M15:173] Elvish Mystic
+1 [RTR:9] Ethereal Armor
+1 [VOW:263] Evolving Wilds
+1 [M13:170] Farseek
+1 [LRW:211] Fertile Ground
+1 [M14:210] Fireshrieker
+10 [VOW:276] Forest
+1 [SOI:274] Fortified Village
+1 [USG:255] Gaea's Embrace
+1 [MIR:327] Grasslands
+1 [ZEN:214] Graypelt Refuge
+1 [PLC:149] Harmonize
+1 [THB:20] Heliod's Pilgrim
+1 [ORI:230] Helm of the Gods
+1 [GTC:17] Holy Mantle
+1 [ROE:26] Hyena Umbra
+1 [M14:23] Indestructibility
+1 [ELD:164] Kenrith's Transformation
+1 [CHK:225] Kodama's Reach
+1 [ROE:31] Kor Spiritdancer
+1 [M19:314] Llanowar Elves
+1 [ROE:37] Mammoth Umbra
+1 [VOC:176] Myriad Landscape
+1 [WWK:108] Nature's Claim
+1 [SOI:32] Open the Armory
+1 [10E:283*] Overgrowth
+12 [VOW:268] Plains
+1 [M12:190] Rampant Growth
+1 [M13:185] Rancor
+1 [TSP:39] Return to Dust
+1 [ORI:250] Rogue's Passage
+1 [FRF:23] Sage's Reverie
+1 [M19:223] Satyr Enchanter
+1 [NEM:18] Seal of Cleansing
+1 [GRN:255] Selesnya Guildgate
+1 [RAV:281] Selesnya Sanctuary
+1 [RAV:270] Selesnya Signet
+1 [THB:36] Sentinel's Eyes
+1 [THB:198] Setessan Champion
+1 [SS2:5] Shielded by Faith
+1 [ORI:31] Sigil of the Empty Throne
+1 [THB:226] Siona, Captain of the Pyleas
+1 [ROE:207] Snake Umbra
+1 [SUM:274] Sol Ring
+1 [ROE:208] Spider Umbra
+1 [M12:35] Spirit Mantle
+1 [AER:23] Sram, Senior Edificer
+1 [INV:278] Sterling Grove
+1 [ODY:328] Sungrass Prairie
+1 [J21:722] Sythis, Harvest's Hand
+1 [M11:229] Terramorphic Expanse
+1 [MH2:258] Thornglint Bridge
+1 [CMR:363] Timely Ward
+1 [M19:259] Tranquil Expanse
+1 [DGM:111] Unflinching Courage
+1 [JUD:31] Unquestioned Authority
+1 [SOI:240] Weirding Wood
+1 [7ED:282] Wild Growth
+1 [TMP:52] Winds of Rath
+1 [THB:205] Wolfwillow Haven
+SB: 1 [AVR:210] Sigarda, Host of Herons
+LAYOUT MAIN:(1,7)(CMC,false,50)|([BFZ:233],[M21:244],[ELD:333],[VOW:263],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[VOW:276],[SOI:274],[MIR:327],[ZEN:214],[VOC:176],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[VOW:268],[ORI:250],[GRN:255],[RAV:281],[ODY:328],[M11:229],[MH2:258],[M19:259])([ISD:170],[M15:173],[RTR:9],[ORI:230],[ROE:26],[M19:314],[WWK:108],[M13:185],[THB:36],[SUM:274],[ROE:208],[7ED:282])([ELD:2],[DOM:211],[M13:170],[LRW:211],[ELD:164],[ROE:31],[SOI:32],[M12:190],[NEM:18],[RAV:270],[M12:35],[AER:23],[INV:278],[J21:722],[THB:205])([MMQ:229],[INV:229],[THB:4],[DTK:7],[NPH:103],[ROE:179],[VOC:163],[M21:177],[DOM:12],[M14:210],[THB:20],[CHK:225],[10E:283*],[M19:223],[THB:198],[SS2:5],[THB:226],[ROE:207],[CMR:363],[DGM:111],[JUD:31],[SOI:240])([THB:298],[ISD:10],[JOU:122],[USG:255],[PLC:149],[GTC:17],[M14:23],[TSP:39],[FRF:23])([ROE:37],[ORI:31],[TMP:52])([IKO:148])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([AVR:210])
